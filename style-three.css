@@ -342,7 +342,6 @@ div.marker-popup-icon> img{
   
 }
 .mapboxgl-popup-content div.title {
-  margin-left: 11px;
   font: 24px "BebasNeue";
   color: #363532;
   text-align: center;
@@ -350,7 +349,8 @@ div.marker-popup-icon> img{
   line-height: 21px;
   margin-top: 18px;
   margin-bottom: 10px;
-  width: 188px;
+  width: 204px;
+ margin-left: 25px;
 }
 
 .mapboxgl-popup-content div.content {
